@@ -1,0 +1,42 @@
+package net.LWJGLClient.client.e.d;
+
+public final class Class448 {
+   byte[] Field9217;
+   int Field9218;
+   int Field9219;
+   int Field9220;
+   int Field9221;
+   byte[] Field9222;
+   int Field9223;
+   int Field9224;
+   int Field9225;
+   int Field9226;
+   byte Field9227;
+   int Field9228;
+   boolean Field9229;
+   int Field9230;
+   int Field9231;
+   int Field9232;
+   int Field9233;
+   int Field9234;
+   int Field9235;
+   int Field9236;
+   final int[] Field9237 = new int[256];
+   int Field9238;
+   final int[] Field9239 = new int[257];
+   public static int[] Field9240;
+   int Field9241;
+   final boolean[] Field9242 = new boolean[256];
+   final boolean[] Field9243 = new boolean[16];
+   final byte[] Field9244 = new byte[256];
+   final byte[] Field9245 = new byte[4096];
+   final int[] Field9246 = new int[16];
+   final byte[] Field9247 = new byte[18002];
+   final byte[] Field9248 = new byte[18002];
+   final byte[][] Field9249 = new byte[6][258];
+   final int[][] Field9250 = new int[6][258];
+   final int[][] Field9251 = new int[6][258];
+   final int[][] Field9252 = new int[6][258];
+   final int[] Field9253 = new int[6];
+   int Field9254;
+}
